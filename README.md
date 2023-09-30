@@ -1,4 +1,4 @@
-# Course Tracker App [Course Tracker App](https://course-tracker-hosting.web.app/)
+# [Course Tracker App](https://course-tracker-hosting.web.app/)
 
 Welcome to the Course Tracker App! Please note that this is just a preview version of the application, and it's currently in its early stages of development.
 
