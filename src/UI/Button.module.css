@@ -1,0 +1,31 @@
+.button {
+    font-weight: bold;
+    padding: 10px 15px;
+    border-radius: 13px;
+    border: none;
+    cursor: pointer;
+    background-color: #cdb4db;
+    color: white;
+}
+
+:is(.signIn, .signUp) {
+    font-weight: bold;
+    padding: 10px 15px;
+    border-radius: 13px;
+    border: none;
+    cursor: pointer;
+}
+
+.signIn {
+    background-color: #cdb4db;
+
+}
+
+.signUp {
+    background-color: #cdb4db;
+}
+
+
+.button:hover {
+    background-color: #c5a1d6;
+}

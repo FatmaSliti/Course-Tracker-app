@@ -1,0 +1,14 @@
+.footer {
+    background-color: #ffc8dd;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px;
+    z-index: 1000;
+
+}
+.footer a {
+    cursor: pointer;
+}

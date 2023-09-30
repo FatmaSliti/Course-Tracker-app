@@ -1,0 +1,61 @@
+.getStartedSection {
+    background-color: #f8f8f8;
+    padding: 30px;
+    text-align: center;
+}
+
+.title {
+    font-size: 24px;
+    color: #333;
+}
+
+.paragraph {
+    font-size: 16px;
+    margin-bottom: 15px;
+    color: #666;
+}
+
+.ctaButton {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.ctaButton:hover {
+    background-color: #0056b3;
+}
+
+.resources {
+    margin-top: 20px;
+}
+
+.resourceList {
+    list-style-type: none;
+    padding: 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.resourceList li {
+    margin-bottom: 10px;
+}
+
+.resourceLink {
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.resourceLink:hover {
+    color: #0056b3;
+}
+
+.aboutImages {
+    width: 560;
+    height: 315;
+}

@@ -1,0 +1,48 @@
+.container {
+    display: flex;
+    height: calc(100vh - 76px);
+    overflow: hidden;
+}
+
+.homeContainer {
+    display: flex;
+    /* Add this to center the description div */
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin: 0 100px 0;
+}
+
+.description {
+    font-weight: bold;
+    font-size: 30px;
+    max-width: 500px;
+    padding: 20px;
+    box-sizing: border-box;
+
+}
+
+.imageContainer {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    flex: 1;
+    transform: skewX(-2deg);
+    background-size: cover;
+    position: relative
+}
+
+.imageContainer img {
+    width: 50vw;
+    max-height: 100%;
+    transform: skewX(-15deg);
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    right: -100px;
+}
+
+.homeButton {
+    width: 10rem;
+    font-size: 20px;
+}

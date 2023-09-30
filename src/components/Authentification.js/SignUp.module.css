@@ -1,0 +1,42 @@
+.inputContainer {
+    padding: 0 30px;
+    display: block;
+    position: relative;
+}
+
+.title {
+    text-align: center;
+}
+
+.input {
+    width: 70%;
+    height: 30px;
+    border-radius: 10px;
+    background-color: #a2d2ff;
+    border: none;
+    margin-bottom: 20px;
+    outline: none;
+    font-size: 18px;
+}
+
+.label {
+    display: block;
+    font-weight: bold;
+    margin: 0 0 10px;
+}
+
+.signUpButton {
+    /* position: absolute;
+    right: 4rem;
+    width: 7rem; */
+    display: block;
+    margin: auto 550px ;
+    font-size: 15px;
+}
+
+.signUpParagraph {
+    margin: auto;
+    display: block;
+    padding: 0 30px;
+    text-align: center;
+}

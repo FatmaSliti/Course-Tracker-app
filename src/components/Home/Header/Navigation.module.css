@@ -1,0 +1,22 @@
+.navigation {
+    display: flex;
+    align-items: center;
+    gap: 5rem;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.navigation .links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    gap: 20px
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
