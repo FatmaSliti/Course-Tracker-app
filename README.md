@@ -1,3 +1,37 @@
+# Course Tracker App
+
+Welcome to the Course Tracker App! Please note that this is just a preview version of the application, and it's currently in its early stages of development.
+
+## Overview
+
+The Course Tracker App is designed to help you keep track of your academic courses. You can use it to:
+
+- Add and manage your courses.
+- Track important information about each course, such as course name, instructor, schedule, and more.
+- Monitor your progress, assignments, and deadlines.
+- Stay organized and optimize your study routine.
+
+## Learning Resources
+
+The Course Tracker App is more than just a course management tool; it's designed to be a helpful guide for new developers based on the experiences and insights gained from completing various courses. Here's what you can expect:
+
+- **Educational Insights**: Discover tips, tricks, and advice on how to excel in online courses and self-guided learning. Learn from the experiences of fellow developers.
+
+- **Course Recommendations**: Find recommendations for courses that can boost your skills and knowledge in different areas of development.
+
+- **Learning Pathways**: Explore suggested learning pathways and roadmaps tailored to your interests and career goals.
+
+- **Community Interaction**: Connect with a community of learners who share their learning journeys and collaborate on educational projects.
+
+We believe that learning is a lifelong journey, and this app aims to make that journey more manageable and enjoyable for new developers. Explore, learn, and grow with the Course Tracker App!
+
+## Access the Hosted App
+
+You can access the hosted Course Tracker App by following this link: [Course Tracker App](https://course-tracker-hosting.web.app/)
+
+
+**Please Note**: The link above represents the early version of the app's user interface and functionality. I am actively working on improving and expanding the features.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
