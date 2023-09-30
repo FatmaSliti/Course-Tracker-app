@@ -10,7 +10,7 @@ const SignUp = (props) => {
     }
 
     return (
-        <Modal onHidePage={props.onHidePage}>
+        <Modal onHidePage={props.onHideSignUp}>
             <form onSubmit={handleSubmit}>
                 < h2 className={styles.title} > Sign Up </h2>
                 <div className={styles.inputContainer}>

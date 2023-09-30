@@ -7,8 +7,8 @@ const Header = (props) => {
         <Fragment>
             <div className={styles.header}>
                 <h2>CourseTracker</h2>
-                {/* <Navigation onHideSignIn={props.onShowSignIn} onShowSignUp={props.onShowSignUp} /> */}
-                <Navigation onHidePage={props.onShowSignIn} onShowPage={props.onShowPage}  />
+                <Navigation onShowSignIn={props.onShowSignIn}  onShowSignUp={props.onShowSignUp} />
+                {/* <Navigation  onHidePage={props.onShowSignIn} onShowPage={props.onShowPage}  /> */}
             </div>
         </Fragment>
     )

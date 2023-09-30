@@ -10,10 +10,9 @@ function Home(props) {
                 <div className={styles.homeContainer}>
                     <div className={styles.description}>
                         <p>Hellooo tech enthusiasts! welcome to the course tracker website !!!</p>
-                        <Button className={styles.homeButton} onClick={props.onShowPage}>Get Started</Button>
+                        <Button className={styles.homeButton} onClick={props.onShowSignIn}>Get Started</Button>
                     </div>
                 </div>
-                
                 <div class={styles.imageContainer}>
                     <img src="homeImage.png" alt="homeimage" />
                 </div>
@@ -21,4 +20,5 @@ function Home(props) {
         </Fragment>
     )
 }
+
 export default Home

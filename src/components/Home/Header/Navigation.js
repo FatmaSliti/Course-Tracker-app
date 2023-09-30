@@ -11,12 +11,11 @@ function Navigation(props) {
                 <li>Courses</li>
             </div>
             <div className={styles.button}>
-                <Button onClick={props.onShowPage}>Sign In</Button>
-                <Button onClick={props.onShowPage}>Sign Up</Button>
+                <Button onClick={props.onShowSignIn}>Sign In</Button>
+                <Button onClick={props.onShowSignUp}>Sign Up</Button>
             </div>
         </div>
     )
 }
 
 export default Navigation
-

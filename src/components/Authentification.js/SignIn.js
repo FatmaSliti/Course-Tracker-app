@@ -8,8 +8,9 @@ const SignIn = props => {
         e.preventDefault();
 
     }
+
     return (
-        <Modal onHidePage={props.onHidePage}  >
+        <Modal onHidePage={props.onHideSignIn}  >
             <form onSubmit={handleSubmit}>
                 <h2 className={styles.title}>Sign In</h2>
                 <div className={styles.inputContainer}>
