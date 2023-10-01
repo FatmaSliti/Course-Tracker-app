@@ -25,7 +25,7 @@ The Course Tracker App is more than just a course management tool; it's designed
 
 We believe that learning is a lifelong journey, and this app aims to make that journey more manageable and enjoyable for new developers. Explore, learn, and grow with the Course Tracker App!
 
-## Thechnologies used
+## Technologies used
 
 - React js
 
