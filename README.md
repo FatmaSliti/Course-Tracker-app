@@ -25,11 +25,15 @@ The Course Tracker App is more than just a course management tool; it's designed
 
 We believe that learning is a lifelong journey, and this app aims to make that journey more manageable and enjoyable for new developers. Explore, learn, and grow with the Course Tracker App!
 
+## Thechnologies used
+
+**React js
+
 ## Access the Hosted App
 
 You can access the hosted Course Tracker App by following this link: [Course Tracker App](https://course-tracker-hosting.web.app/)
 
-## Screenshots
+## Preview
 
 ![image](imgss/three.png)
 
