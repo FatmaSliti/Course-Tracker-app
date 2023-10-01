@@ -27,7 +27,7 @@ We believe that learning is a lifelong journey, and this app aims to make that j
 
 ## Thechnologies used
 
-**React js
+- **React js
 
 ## Access the Hosted App
 
