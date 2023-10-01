@@ -1,14 +1,16 @@
 import React, { Fragment } from 'react'
 import styles from './Navigation.module.css'
-import Button from '../../../UI/Button'
+import Button from '../../UI/Button'
+
 
 function Navigation(props) {
     return (
         <div className={styles.navigation}>
             <div className={styles.links}>
+                <li>Courses</li>
+                {/* <Link to="/Courses">Courses</Link> */}
                 <li>About</li>
                 <li>Contact</li>
-                <li>Courses</li>
             </div>
             <div className={styles.button}>
                 <Button onClick={props.onShowSignIn}>Sign In</Button>
@@ -19,3 +21,4 @@ function Navigation(props) {
 }
 
 export default Navigation
+

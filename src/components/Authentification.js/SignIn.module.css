@@ -40,3 +40,9 @@
     padding: 0 30px;
     text-align: center;
 }
+
+.message {
+    text-align: center;
+    margin: 0 0 20px ;
+    color: #0b6e0b;
+}
